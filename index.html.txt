@@ -3,7 +3,7 @@
 
 </body>
 <ul>
-
+<li> git이란 무엇인가</li>
 </ul>
 
 </html>

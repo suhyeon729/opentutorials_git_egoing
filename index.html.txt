@@ -1,15 +1,13 @@
-<html>
-<<<<<<< HEAD
+<html><head>
+<title>GIT 荐诀 </title>
+</head>
 <body>
-
-</body>
+<header>
+<h1> Git</h1>
+</header>
 <ul>
-<li> git捞鄂 公均牢啊</li>
-<li>滚傈</li>
+<li>Git 家俺 </li>
+<li>滚傈 </li>
 </ul>
-
-=======
-<head><title> git 家俺</title></head>
-<body></body>
->>>>>>> 鞁ろ棙
+</body>
 </html>

@@ -1,4 +1,5 @@
 <html>
+<<<<<<< HEAD
 <body>
 
 </body>
@@ -7,4 +8,8 @@
 <li>¹öÀü</li>
 </ul>
 
+=======
+<head><title> git ¼Ò°³</title></head>
+<body></body>
+>>>>>>> ì‹¤í—˜
 </html>
